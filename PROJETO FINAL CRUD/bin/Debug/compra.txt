@@ -1,0 +1,12 @@
+CLIENTE: 
+NOME:  Adnan Hoblos
+---------------------------------------------
+Assento Comprado: 2
+Preco do Assento: 100
+---------------------------------------------
+Detalhes da passagem:
+Origem: TOLEDO
+Destino: PORTO ALEGRE
+Modelo: AVIAO 04
+Horario: 08:00
+---------------------------------------------

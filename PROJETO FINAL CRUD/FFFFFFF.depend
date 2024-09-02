@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1719221984 source:c:\users\adnan\onedrive\햞ea de trabalho\projeto crud final teste carai\fffffff\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"aviao.h"
+	"assentos.h"
+
+1719222593 c:\users\adnan\onedrive\햞ea de trabalho\projeto crud final teste carai\fffffff\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719262513 c:\users\adnan\onedrive\햞ea de trabalho\projeto crud final teste carai\fffffff\aviao.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719222362 c:\users\adnan\onedrive\햞ea de trabalho\projeto crud final teste carai\fffffff\assentos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

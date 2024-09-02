@@ -1,0 +1,2 @@
+ABRIR O EXECUTÁVEL FFFFFFF DENTRO DA PASTA bin/debug.
+O txt está printando dentro da mesma pasta.

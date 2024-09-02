@@ -1,0 +1,17 @@
+CLIENTE: 
+NOME:  Adnan Hoblos
+---------------------------------------------
+---------------------------------------------
+Detalhes da passagem:
+Origem: TOLEDO
+Destino: Sao Paulo
+Modelo: aviao 01
+Horario: 08:00
+---------------------------------------------
+---------------------------------------------
+Detalhes da passagem:
+Origem: TOLEDO
+Destino: PORTO ALEGRE
+Modelo: aviao 04
+Horario: 08:00
+---------------------------------------------
